@@ -1,0 +1,8 @@
+﻿  RSA.cpp
+C:\Users\SakhBeaver\Desktop\учеба\мага\2 курс\Инф без-ть\lb4\lb4\RSA.cpp(112,18): warning C4244: аргумент: преобразование "long" в "const _Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\SakhBeaver\Desktop\учеба\мага\2 курс\Инф без-ть\lb4\lb4\RSA.cpp(121,28): warning C4244: =: преобразование "long" в "char", возможна потеря данных
+  lb4.vcxproj -> C:\Users\SakhBeaver\Desktop\учеба\мага\2 курс\Инф без-ть\lb4\x64\Debug\lb4.exe
